@@ -1,0 +1,5 @@
+hermaion/private test
+hermaion/__pycache__
+*.pyc
+*.swp
+.DS_Store

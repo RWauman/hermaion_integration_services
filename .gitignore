@@ -1,4 +1,5 @@
-hermaion/private_test
+
+hermaion/private_test/
 hermaion/__pycache__
 *.pyc
 *.swp
